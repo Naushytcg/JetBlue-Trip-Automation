@@ -1,5 +1,5 @@
 # JetBlue-Trip-Automation
-## Automated tests for submitting a trip.
+### Automated tests for submitting a trip.
 
 To begin start webdriver manager using "webdriver-manager start"
 
