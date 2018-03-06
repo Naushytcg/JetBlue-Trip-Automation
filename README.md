@@ -19,7 +19,14 @@
 
 #### A file is provided that will open a command window in the folder.
 To begin open a cmd window and type "webdriver-manager update"
+<<<<<<< HEAD
 
 When this is done, type "webdriver-manager start" (You will leave this window open)
+=======
+
+When this is done, type "webdriver-manager start" (You will leave this window open)
+
+Then in a new window type "protractor config"
+>>>>>>> 86509b309019378c23068553d419c9de1cd48b06
 
 Then in a new window type "protractor config"
