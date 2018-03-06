@@ -17,12 +17,10 @@
 
 ## How to start
 
+#### A file is provided that will open a command window in the folder.
 To begin open a cmd window and type "webdriver-manager update"
 
 When this is done, type "webdriver-manager start" (You will leave this window open)
 
 Then in a new window type "protractor config"
-
-### A file is provided that will open a command window in the folder.
-
 
