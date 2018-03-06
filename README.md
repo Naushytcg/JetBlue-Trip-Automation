@@ -9,7 +9,9 @@
 
 1. ### [Running these tests requires NodeJS and NPM.](https://nodejs.org/en/)
 
-2. Webdriver is also required.  If you do not have webdriver, after installing NodeJS and NPM, use the install_webdriver file inside the "requirements" folder of this project.
+2. .[Google Chrome is required for these tests].(https://www.google.com/chrome/)
+
+3. Webdriver is also required.  If you do not have webdriver, after installing NodeJS and NPM, use the install_webdriver file inside the "requirements" folder of this project.
 
 ---
 
