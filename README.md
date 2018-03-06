@@ -15,7 +15,9 @@
 
 ## How to start
 
-To begin open a cmd window and type "webdriver-manager start"
+To begin open a cmd window and type "webdriver-manager update"
+
+When this is done, type "webdriver-manager start"
 
 Then in a new window type "protractor config"
 
