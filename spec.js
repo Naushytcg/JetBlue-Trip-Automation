@@ -78,9 +78,9 @@ describe('JetBlue, Plan A Trip', function(){
         dateDepartBox.sendKeys(dateFunctions.getDate(1));
         dateReturnBox.sendKeys(dateFunctions.getDate(5));
         clickOption(adultBox, 1);
-        browser.sleep(3000);
+        browser.sleep(1000);
         clickOption(childBox, 2);
-        browser.sleep(3000);
+        browser.sleep(1000);
         element(by.css('input[value="Find it"]')).click().then(function(){
             let theCheck = element(by.css('#jb-overlay-title'));
             expect(theCheck.getText()).toContain('Unaccompanied Minors');
