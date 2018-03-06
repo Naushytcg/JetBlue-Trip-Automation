@@ -1,6 +1,8 @@
 # JetBlue-Trip-Automation
-Automated tests for submitting a trip.
+### Automated tests for submitting a trip.
 
-Simply start webdriver manager with "webdriver-manager start"
+To begin start webdriver manager using "webdriver-manager start"
 
-Then run "protractor config" from the root folder to run the tests.
+Then in a new window type "protractor config"
+
+A file is provided that will open a command window in the folder.
