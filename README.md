@@ -8,4 +8,5 @@ Then in a new window type "protractor config"
 A file is provided that will open a command window in the folder.
 
 
+![test image size](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png){:height="50%" width="50%"}
 ![alt text](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png "NodeJS Logo" | height=50)
