@@ -11,6 +11,8 @@
 
 2. Webdriver is also required.  If you do not have webdriver, after installing NodeJS and NPM, use the install_webdriver file inside the "requirements" folder of this project.
 
+---
+
 ## How to start
 
 To begin open a cmd window and type "webdriver-manager start"
